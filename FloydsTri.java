@@ -8,6 +8,6 @@ public class FloydsTri{
                 System.out.print(sum+"   ");
             }
             System.out.print("\n");
-        }
+        } 
     }
 }
